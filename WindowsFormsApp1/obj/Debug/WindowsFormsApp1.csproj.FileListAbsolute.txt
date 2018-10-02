@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\mak\documents\visual studio 2017\Projects\ThreadDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
